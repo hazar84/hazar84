@@ -24,7 +24,7 @@
 | **Система контроля версий** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **Дизайн & Прототипирование** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | **Тестирование API** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| **Методологии** | ![ООП](https://img.shields.io/badge/-ООП-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Адаптивная верстка](https://img.shields.io/badge/-Адаптивная_верстка-4CAF50?style=for-the-badge&logo=css3&logoColor=white) ![Кроссбраузерная верстка](https://img.shields.io/badge/-Кроссбраузерная_верстка-563D7C?style=for-the-badge&logo=googlechrome&logoColor=white) |
+| **Методологии** | ![ООП](https://img.shields.io/badge/-ООП-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Адаптивная верстка](https://img.shields.io/badge/-Адаптивная_верстка-4CAF50?style=for-the-badge&logo=responsive&logoColor=white) ![Кроссбраузерная верстка](https://img.shields.io/badge/-Кроссбраузерная_верстка-563D7C?style=for-the-badge&logo=googlechrome&logoColor=white) |
 
 ---
 
