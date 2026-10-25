@@ -39,7 +39,8 @@
 
 *   **Telegram:** https://t.me/zaharitos
 *   **Почта:** job.zakharchenko@mail.ru
-*   **HH.ru:** https://krasnodar.hh.ru/resume/41af6ee9ff1089b3fd0039ed1f6b4d43615935
+*   **HH.ru:** https://krasnodar.hh.ru/resume/9ad4b0eaff112d94650039ed1f7a5a6f613470
+*   **Max:** https://max.ru/u/f9LHodD0cOKPLPudq2ojrU6tIeo9uSK8D1y70BafkxPs0uGSCYt0XNP4tp4
 
 ---
 #### 🚀 Статус занятости
